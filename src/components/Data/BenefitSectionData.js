@@ -1,6 +1,6 @@
-import PersonIcon from '../../assets/Person Icon.png';
-import CalculatorIcon from '../../assets/Calculater Icon.png';
-import FolderIcon from "../../assets/Folder Icon.png";
+import PersonIcon from '/Person Icon.png';
+import CalculatorIcon from '/Calculater Icon.png';
+import FolderIcon from "/Folder Icon.png";
 
 export const BenefitSectionData = [
   {

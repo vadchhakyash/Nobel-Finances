@@ -1,5 +1,5 @@
 import Img from "../../atoms/ImageTag/Img";
-import Wood from "../../../assets/Wooden Stairs.png";
+import Wood from "/Wooden Stairs.png";
 
 function CTAImg() {
   return (

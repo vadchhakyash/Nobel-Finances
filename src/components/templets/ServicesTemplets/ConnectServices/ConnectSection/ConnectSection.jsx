@@ -1,4 +1,4 @@
-import CalculatorImg from "../../../../../assets/Calculater.png";
+import CalculatorImg from "/Calculater.png";
 import Heading2 from "../../../../atoms/Heading/Heading2";
 import Button from "../../../../atoms/Button/Button";
 import Img from "../../../../atoms/ImageTag/Img";

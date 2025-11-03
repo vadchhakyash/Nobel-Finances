@@ -1,5 +1,5 @@
 import ImageBreakSection from "../../HomeTemplets/ImageBreakSection/ImageBreakSection";
-import Cityscape from "../../../../assets/Cityscape.png"
+import Cityscape from "/Cityscape.png"
 
 
 function ImageBreakServices(){

@@ -1,7 +1,7 @@
 import WorkSteps from "../WorkSteps/WorkSteps";
-import PencilImg from "../../../../../assets/Pencils.png";
-import MoneyImg from "../../../../../assets/Doller.png";
-import CubeImg from "../../../../../assets/Cube.png";
+import PencilImg from "/Pencils.png";
+import MoneyImg from "/Doller.png";
+import CubeImg from "/Cube.png";
 
 function HowItWork() {
   const steps = [

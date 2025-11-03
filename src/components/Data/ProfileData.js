@@ -1,6 +1,6 @@
-import TaylorImg from "../../assets/Taylor.png"
-import MarkusImg from "../../assets/Markus.png";
-import MargaretImg from "../../assets/Margaret.png";
+import TaylorImg from "/Taylor.png"
+import MarkusImg from "/Markus.png";
+import MargaretImg from "/Margaret.png";
 
 
 const profiles = [

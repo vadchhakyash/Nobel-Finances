@@ -8,7 +8,7 @@ import BenefitSection from "../../templets/HomeTemplets/BenefitsSection/Benefits
 import CTASection from "../../templets/HomeTemplets/CTASection/CTASection";
 import ExpertSection from "../../templets/HomeTemplets/ExpertsSection/ExpertsSection";
 import Footer from "../../organisms/Footer/Footer";
-import PersonImg from "../../../assets/Person Working On Laptop.png";
+import PersonImg from "/Person Working On Laptop.png";
 
 function HomePage() {
   return (

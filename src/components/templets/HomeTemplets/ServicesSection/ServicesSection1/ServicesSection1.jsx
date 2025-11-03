@@ -1,7 +1,7 @@
 import "../../../../../App.css";
 import SectionText from "../../../../molecules/ServiceDiv/Section/SectionText/SectionText";
 import SectionImg from "../../../../molecules/ServiceDiv/Section/SectionImg/SectionImg";
-import Section1Img from "../../../../../assets/Section1.png"
+import Section1Img from "/Section1.png"
 
 
 function ServicesSection1() {

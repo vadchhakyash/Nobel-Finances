@@ -1,4 +1,4 @@
-import ClockImg from "../../../assets/Clock.png"
+import ClockImg from "/Clock.png"
 import Img from "../../atoms/ImageTag/Img";
 import Heading2 from "../../atoms/Heading/Heading2";
 import Paragraph from "../../atoms/Paragraph/Paragraph";

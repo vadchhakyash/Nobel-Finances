@@ -1,7 +1,7 @@
 import "../../../../App.css";
 import HeroHeading from "../../../molecules/Hero/HeroHeading/HeroHeading";
 import HeroImg from "../../../molecules/Hero/HeroImg/HeroImg";
-import Laptop from "../../../../assets/Laptop&Coin.png";
+import Laptop from "/Laptop&Coin.png";
 
 function HeroServices() {
   return (

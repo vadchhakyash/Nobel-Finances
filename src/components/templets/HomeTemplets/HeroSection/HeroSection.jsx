@@ -1,7 +1,7 @@
 import "../../../../App.css";
 import HeroHeading from "../../../molecules/Hero/HeroHeading/HeroHeading";
 import HeroImg from "../../../molecules/Hero/HeroImg/HeroImg";
-import worldImg from "../../../../assets/World.png";
+import worldImg from "/World.png";
 
 function HeroSection() {
   return (
